@@ -1,3 +1,4 @@
+[LICENSE.txt](https://github.com/user-attachments/files/24325222/LICENSE.txt)
 # 📝 PDF Editor v4.5
 
 A professional, standalone desktop application designed to automate certain PDF editing workflows.
